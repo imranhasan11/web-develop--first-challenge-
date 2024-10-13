@@ -81,7 +81,7 @@
 }
 .About-first-coding{
    padding: 10px 50px;
-
+   background-color: ivory;
 }
 .first-coding-title{
    font-weight: 700;
@@ -98,12 +98,11 @@
    display: flex;
    justify-content: space-between;
    align-items: center;
-   margin: 60px;
+   margin: 50px;
 }
 .About-second-coding{
    padding: 10px 50px;
-   margin-left: 20px;
-
+   background-color: ivory;
 }
 .second-coding-title{
    font-weight: 700;
@@ -134,7 +133,7 @@
 }
 .About-third-coding{
    padding: 10px 50px;
-
+   background-color: ivory;
 }
 .third-coding-title{
    font-weight: 700;
@@ -156,4 +155,40 @@
     height: 64px;
     border-radius: 5px;
     background-color: black; 
+}
+
+/* target section*/
+.target-title{
+   font-weight: 700;
+   font-size: 35px;
+   padding: 20px;
+   text-align: center; 
+}
+.target-description{
+   font-weight: 100;
+   font-size: 18px;
+   text-align: center;
+}
+.front{
+   display: flex;
+   justify-content: space-between;
+   text-align: center;
+   margin: 50px 200px;
+ 
+}
+.html{
+   background-color: pink;
+   padding: 18px 35px;
+   margin-right: 20px;
+}
+.css{
+   background-color: skyblue;
+   padding: 18px 35px;
+   margin-right: 20px;
+
+}
+.javascript{
+   background-color: papayawhip;
+   padding: 18px 35px;
+   margin-right: 20px;
 }
