@@ -1,6 +1,6 @@
  
 * {
-   margin: 0;
+   margin: 0 ;
    font-family: 'Open Sans', sans-serif;
 }
 
@@ -9,8 +9,7 @@
  nav{
     display: flex;
     justify-content: space-between;
-    padding: 50px 200px;
-
+    padding: 50px 250px;
 
  }
  .nav-title {
@@ -54,3 +53,107 @@
     border-radius: 5px;
     background-color: black;
  }
+
+  /* main section style */
+
+.main{
+   background-color: aliceblue;
+   margin: 50px 200px;
+}
+.web-develop{
+   text-align: center;
+}
+.web-title{
+   font-weight: 700;
+   font-size: 35px;
+   padding: 20px;
+}
+.web-desciption{
+   font-weight: 100;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+ .first-coding{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 30px;
+}
+.About-first-coding{
+   padding: 10px 50px;
+
+}
+.first-coding-title{
+   font-weight: 700;
+   font-size: 25px;
+}
+.first-coding-description {
+   font-weight: 100;
+   font-size: 18px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   text-wrap: 10px;
+}
+ .second-coding{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 60px;
+}
+.About-second-coding{
+   padding: 10px 50px;
+   margin-left: 20px;
+
+}
+.second-coding-title{
+   font-weight: 700;
+   font-size: 25px;
+}
+.second-coding-description {
+   font-weight: 100;
+   font-size: 18px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   text-wrap: 10px;
+}
+.learn-btn{
+   color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 5px 18px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: black; 
+}
+ .third-coding{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 30px;
+}
+.About-third-coding{
+   padding: 10px 50px;
+
+}
+.third-coding-title{
+   font-weight: 700;
+   font-size: 25px;
+}
+.third-coding-description {
+   font-weight: 100;
+   font-size: 18px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   text-wrap: 10px;
+}
+.learn-btn{
+   color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 5px 8px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: black; 
+}
