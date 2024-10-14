@@ -206,6 +206,24 @@ video{
    margin: 50px 200px;
  
 }
+.front-title{
+   font-weight: 500;
+   font-size: 25px;
+   padding: 10px;
+   text-align: center;
+}
+.front-details{
+   font-weight: 80;
+   font-size: 15px;
+   text-align: center;
+   color: dimgray;
+}
+.more-btn{
+   font-weight: 100;
+   font-size: 15px;
+   color: black;
+   padding: 10px;
+}
 .html{
    background-color: pink;
    padding: 18px 35px;
@@ -288,7 +306,7 @@ video{
    font-size: 10px;
    background-color: white;
    color: darkslategray;
-   padding: 15px 60px;
+   padding: 15px 80px;
    border-radius: 10px;
 }
 .submit-btn{
